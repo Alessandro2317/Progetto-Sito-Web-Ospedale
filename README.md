@@ -47,15 +47,3 @@ Il database MySQL è composto da 5 tabelle principali relazionate tra loro:
 5. `FARMACI`: Registro dei medicinali e quantità disponibili a magazzino.
 
 ---
-
-## 🚀 Installazione e Requisiti
-
-### Requisiti
-* Server Web (es. Apache tramite **XAMPP**, WAMP o MAMP)
-* PHP 7.4 o superiore
-* MySQL / MariaDB
-
-### Configurazione
-1. Clonare la repository nella cartella del server locale (es. `htdocs` per XAMPP):
-   ```bash
-   git clone [https://github.com/tuo-username/nome-repo.git](https://github.com/tuo-username/nome-repo.git)
